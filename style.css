@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header {
+     background-color: #DB00D8;
+     padding: 10px;
+
+
+}
+header a{ 
+    color:#DB00D8
+    
+}
+
+h1{
+    background-color: #DB00D8;
+}
+
+
+footer{
+text-align: center;
+background-color: #DB00D8;  
+}
+nav{
+text-align: center;
+padding: 10px;
+}
+nav a{
+
+}
+.alma{
+background-color:#9c279a ;
+}
+h2{ 
+background-color: #9c279a ;
+padding: 10px; 
+
+}
+
+main a{
+background-color: #4B862D;
+color:white;
+text-decoration: none;
+padding: 10px;
+border-radius: 10px;
+
+}
